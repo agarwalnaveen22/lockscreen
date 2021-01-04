@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132697391064",
+    "project_id": "lockscreen-fbea5",
+    "storage_bucket": "lockscreen-fbea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132697391064:android:fa4b225a0a2af9f9f1bcad",
+        "android_client_info": {
+          "package_name": "com.lockscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132697391064-n5hmssbd79kegaohaj4hpqci8m1kcj1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQGL_QsFSWTGC8S1QaRSBLO8YTLQ1rTp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132697391064-n5hmssbd79kegaohaj4hpqci8m1kcj1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
